@@ -104,11 +104,9 @@ root.mainloop()
 - root.mainloop() is a method that executes when we want to run our program.
 ##  output
 
-basic window 
-
-![window](https://github.com/TamanamPrudhvi/message_encryption/blob/main/Decrypt.png)
-
 Encryption
-![Encrypt](https://github.com/TamanamPrudhvi/message_encryption/blob/main/Encrypt.png)
-
+                 ![Encrypt](https://github.com/TamanamPrudhvi/message_encryption/blob/main/Encrypt.png)
+              
 Decryption
+                ![window](https://github.com/TamanamPrudhvi/message_encryption/blob/main/Decrypt.png)
+      
