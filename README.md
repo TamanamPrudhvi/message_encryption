@@ -106,9 +106,9 @@ root.mainloop()
 
 basic window 
 
-![window](MessageEncrypter-Decrypter/blob/main/window.png)
+![window](https://github.com/TamanamPrudhvi/message_encryption/blob/main/Decrypt.png)
 
 Encryption
-![Encrypt](-MessageEncrypter-Decrypter/blob/main/Encrypt.png)
+![Encrypt](https://github.com/TamanamPrudhvi/message_encryption/blob/main/Encrypt.png)
 
 Decryption
